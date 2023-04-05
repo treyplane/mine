@@ -5,9 +5,9 @@ import logimg from './f.jpeg';
 import woodimg from './th.jpeg';
 
 export {
-  dirtimg
-  grassimg
-  glassimg
-  logimg
+  dirtimg,
+  grassimg,
+  glassimg,
+  logimg,
   woodimg
 }
