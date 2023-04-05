@@ -10,4 +10,4 @@ export {
   glassimg,
   logimg,
   woodimg
-}
+};
