@@ -1,4 +1,4 @@
-import { TextureLoader } from 'three'
+import { TextureLoader } from 'three';
 
 import {
   dirtimg,
@@ -6,13 +6,13 @@ import {
   glassimg,
   logimg,
   woodimg
-} from './img'
+} from './img';
 
-const dirtTexture = new TextureLoader(dirtimg)
-const logTexture = new TextureLoader(logimg)
-const groundTexture = new TextureLoader(grassimg)
-const glassTexture = new TextureLoader(glassimg)
-const woodTexture = new TextureLoader(woodimg)
+const dirtTexture = new TextureLoader(dirtimg);
+const logTexture = new TextureLoader(logimg);
+const groundTexture = new TextureLoader(grassimg);
+const glassTexture = new TextureLoader(glassimg);
+const woodTexture = new TextureLoader(woodimg);
 
 export {
   dirtTexture,
@@ -20,4 +20,4 @@ export {
   groundTexture,
   glassTexture,
   woodTexture
-}
+};
