@@ -9,4 +9,6 @@ function App() {
         </Canvas>
      </>
   );
-}
+};
+
+export {App()};
